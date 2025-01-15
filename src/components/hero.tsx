@@ -6,7 +6,6 @@
 
 "use client";
 import { useEffect, useState } from "react";
-import { Button } from "@/components/ui/button";
 import { getDictionary } from "@/i18n/get-dictionary";
 import type { Locale } from "@/i18n/config";
 

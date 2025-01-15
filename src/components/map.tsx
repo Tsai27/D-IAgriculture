@@ -14,13 +14,13 @@ const AMapExample = () => {
             "plugins": ["AMap.MapType", "AMap.ToolBar"]  // 加载地图类型切换插件和工具栏插件
         }).then((AMap) => {
             // 创建地图实例
-            let amap = new AMap.Map('mapContainer', {
+            const amap = new AMap.Map('mapContainer', {
                 zoom: 16,  // 初始化地图层级
                 center: [116.3280, 39.96203]  // 初始化地图中心点
             });
 
             // 创建标记
-            let marker = new AMap.Marker({
+            const marker = new AMap.Marker({
                 position: [116.3280, 39.96203]  // 标记位置
             });
 
@@ -28,7 +28,7 @@ const AMapExample = () => {
             amap.add(marker);
 
             // 创建地图类型控件
-            let mapType = new AMap.MapType({
+            const mapType = new AMap.MapType({
                 defaultType: AMap.MapType.HYBRID // 默认显示卫星图
             });
 
@@ -36,7 +36,7 @@ const AMapExample = () => {
             amap.addControl(mapType);
 
             // 创建并添加工具栏控件
-            let toolBar = new AMap.ToolBar();
+            const toolBar = new AMap.ToolBar();
             amap.addControl(toolBar);  // 将工具栏控件添加到地图上
         }).catch(e => {
             console.log(e);

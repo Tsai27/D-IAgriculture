@@ -1,8 +1,11 @@
+/*
+ * @Author: Tsai27
+ * @Date: 2024-12-25 16:12:01
+ */
 'use-client'
 // import { useEffect, useRef } from 'react'
 
 import Image from 'next/image'
-import Link from 'next/link'
 
 interface Tag {
   name: string

@@ -1,5 +1,7 @@
-import { Button } from "@/components/ui/button";
-import { ArrowRight, ArrowLeft } from "lucide-react";
+/*
+ * @Author: Tsai27
+ * @Date: 2025-01-14 14:19:31
+ */
 import { getDictionary } from "@/i18n/get-dictionary";
 import type { Locale } from "@/i18n/config";
 import type { Metadata } from "next";

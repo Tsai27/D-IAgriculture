@@ -2,9 +2,7 @@
  * @Author: Tsai27
  * @Date: 2024-12-10 10:39:46
  */
-import Link from "next/link"
 import Image from "next/image"
-import { Sprout } from "lucide-react"
 import { getDictionary } from "@/i18n/get-dictionary"
 import type { Locale } from "@/i18n/config"
 

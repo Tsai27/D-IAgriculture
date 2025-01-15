@@ -9,10 +9,9 @@ interface NewsCardProps {
   title: string;
   description: string;
   image: string;
-  link: string;
 }
 
-const NewsCard = ({ title, description, image, link }: NewsCardProps) => {
+const NewsCard = ({ title, description, image }: NewsCardProps) => {
   const desc = description.length > 100 ? description.substr(0, 100) : description; // 防止 description 为空或长度过短
   return (
     <div className="bg-slate-100 dark:bg-dark-2 flex flex-col rounded-lg shadow-lg hover:scale-105 hover:shadow-xl hover:bg-slate-200 transition-all duration-200 ease-out">

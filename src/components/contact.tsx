@@ -7,7 +7,7 @@ import Link from "next/link";
 import Image from "next/image";
 
 const EmailSection = () => {
-  const [emailSubmitted, setEmailSubmitted] = useState(false);
+  const [emailSubmitted] = useState(false);
   return (
     <section
       id="contact"
