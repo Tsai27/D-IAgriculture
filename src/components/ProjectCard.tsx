@@ -7,10 +7,7 @@
 
 import Image from 'next/image'
 
-interface Tag {
-  name: string
-  color: string
-}
+
 
 interface ProjectCardProps {
   name: string
