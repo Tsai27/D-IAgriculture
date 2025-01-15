@@ -1,0 +1,468 @@
+{
+  "navs": {
+    "name":"Home",
+    "logo":"/logo.svg",
+    "navbar0":{
+      "name":"Home"
+    },
+    "navbar1":{
+      "name":"Area"
+    },
+    "navbar2":{
+      "name":"Results"
+    },
+    "navbar3":{
+      "name":"Members"
+    },
+    "navbar4":{
+      "name":"News"
+    },
+    "navbar5":{
+      "name":"Contact"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Digital and Intelligent Agriculture Research Group",
+      "description1": "CAAS-IARRP",
+      "description2": "Committed to breaking through key scientific issues in smart agriculture, such as theories, technologies, and equipment, and establishing a standard technological model and ecosystem for smart agriculture that combines the 'innovation chain' with the 'industry chain', providing strong technological support for government smart decision-making and precision management for production and business entities.",
+      "learnMore": "Learn More",
+      "watchDemo": "Contact Us",
+      "image":"/images/643.jpg"
+    },
+    "cta": {
+      "title": "Contact Us",
+      "description1": "Our research group is always open to welcoming undergraduate interns, visiting graduate students, postdoctoral researchers, and other collaborators.",
+      "description2": "If you have any questions, please contact us via email, and we will get back to you as soon as possible.",
+      "button": "Send Email"
+    },
+    "contact": {
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message"
+    }
+  },
+  "news": {
+    "name":"Latest News",
+    "description":"Academic Exchange、Research Progress、Extracurricular Activities...",
+    "projects1" : 
+      {
+        "title":"With stories and good looks! This group of new farmers is trending again!",
+        "description":"In March this year, to create a work environment where colleagues can help each other, pursue personal growth, and realize their self-worth, the office developed a set of values-based performance assessment criteria.",
+        "image": "/images/646.jpg",
+        "link":"blog"
+      },
+    "projects2" : 
+      {
+        "title":"Exploring Industry Opportunities Hidden in Farmlands — The Yangtze River Delta Smart Agriculture Research Institute Supports the New Development of Smart Agriculture",
+        "description":"This helps team members record their key moments of growth through challenges and breakthroughs in their personal development.",
+        "image": "/images/645.jpg",
+        "link":"www.baidu.com"
+      },
+    "projects3" : 
+      {
+        "title":"Li Jianbing, Director of the Land Quality Monitoring and Protection Center of the Ministry of Agriculture and Rural Affairs, and his team conducted a research visit to the Yangtze River Delta Smart Agriculture Research Institute.",
+        "description":"On November 23, 2023,  Director of the Land Quality and Plant Protection Station of Kunshan City, along with their team, visited the Yangtze River Delta Smart Agriculture Research Institute.",
+        "image": "/images/644.jpg",
+        "link":"www.sohu.com"
+      }
+  },
+  "team": {
+    "name":"Research Team",
+    "description":"The team is composed of graduate and doctoral students from various academic backgrounds, a group of passionate innovators. We are committed to serving agriculture through our own technologies, striving to become 'new farmers' who contribute to the country.",
+    "button":"Learn More",
+    "title":{
+      "professors":"Professors",
+      "researchers":"Researchers",
+      "students":"Students"
+    },
+    "professors":{
+          "member1": 
+            {
+              "name":"ShiYun ",
+              "description":"Born in March 1979 in Liyang, Jiangsu, with a Ph.D., he is a researcher and doctoral supervisor at the Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences. He has long been engaged in fundamental and applied research on spatial information acquisition and analysis using multi-sensor data fusion. Notably, he has achieved world-leading research results in areas such as multi-sensor data collaborative acquisition and transmission, multi-platform multi-sensor data fusion, and three-dimensional spatial information acquisition and analysis based on fused data. He has independently developed a 3D information acquisition and analysis processing system based on multiple sensors, which has been adopted by numerous enterprises and institutions both domestically and internationally, generating significant social and economic value. He has led 5 projects, received 1 award, published more than 30 papers, and obtained 15 patents/software copyrights",
+              "image": "/images/team/sy.jpg"
+              
+            },
+          "member2" : 
+            {
+              "name":"Yu Qiang Yi ",
+              "description":"农学博士，博士生导师 。中国农业科学院农业资源与农业区划研究所 研究员 ，智慧农业创新团队青年首席，入选 首批中国农业科学院青年创新专项资助。 担任国务院第三次全国土壤普查专家技术指导组专家、现代农业产业技术体系北京市数字农业创新团队岗位专家。主要从事土地系统、农业遥感、智慧耕地研究，在天空地一体化智能感知、耕地利用遥感监测、高标准农田监测监管、农业土地系统可持续评价等方面取得重要进展。主持国家级科研项目4项，包括国家自然科学基金2项、国家重点研发计划课题2项，第一/通讯作者在Nature Food等国际知名SCI期刊发表论文20余篇，获省部级奖励3项。",
+              "image": "/images/team/yqy.jpg"
+              
+            },
+          "member3" : 
+            {
+              "name":"Zhang Bao Hui ",
+              "description":"",
+              "image": "/images/team/zbh.jpg"
+              
+            },
+            "member4" : 
+            {
+              "name":"Duan Yu Lin ",
+              "description":"",
+              "image": "/images/team/zbh.jpg"
+              
+            }
+      },
+      "researchers": {
+        
+        "member1": 
+            {
+              "name":"姓名 -- ",
+              "area":"领域 == ",
+              "position":"职称 -- ",
+              "description":"介绍 -- ",
+              "image": "/images/avatar.jpg",
+              "link":"blog"
+            },
+          "member2" :       
+            {
+              "name":"姓名 -- ",
+              "area":"领域 == ",
+              "position":"职称 -- ",
+              "description":"介绍 -- ",
+              "image": "/images/avatar.jpg",
+              "link":"blog"
+            }
+      },
+      "students": {
+        
+        "member1": 
+            {
+              "name":"车紫进",
+              "grade":"2023级博士生",
+              "area":"深度学习 智慧农业",
+              "image": "/images/avatar.jpg",
+              "email":"chezijin@caas.cn"
+          },
+          "member2": 
+            {
+              "name":"姓名 -- ",
+              "grade":"2023级博士生",
+              "area":"领域 == ",
+              "image": "/images/avatar.jpg",
+              "email":"blog"
+          },
+          "member3": 
+            {
+              "name":"姓名 -- ",
+              "grade":"2023级博士生",
+              "area":"领域 == ",
+              "image": "/images/avatar.jpg",
+              "email":"blog"
+          }
+        }
+  },
+  "footer": {
+    "support": "Support Organizations",
+    "company": "Partner Companies",
+    "copyright": "© 2024 CaasLab. All rights reserved.",
+    "links": {
+      "caas": "Chinese Academy of Agricultural Sciences",
+      "nwafu": "Northwest A&F University",
+      "suda": "Soochow University",
+      "dufe": "Hebei GEO University",
+      "znsz": "AgriView"
+    },
+    "info":{
+      "location": "Address:12, Zhongguancun South Street, Haidian District, Beijing, China",
+      "phone": "Landline:",
+      "email": "Email:"
+    }
+  },
+  "links": {
+    "nwafu": "",
+    "suda": "",
+    "dufe": ""
+  },
+  "metadata": {
+    "title": "Digital and Intelligent Agriculture Research Group - CAAS",
+    "description": "A powerful Chrome extension that helps you better manage tabs and improve productivity",
+    "keywords": "Chrome Extension, Tab Management, Productivity Tools, Browser Extensions"
+  },
+  "common": {
+    "brand": "D&I Agriculture Research Group",
+    "loading": "Loading..."
+  },
+  "features": {
+    "title": "Research Areas",
+    "description1": "The deep integration of emerging information technologies such as remote sensing networks, big data, and artificial intelligence with agriculture, with a research focus on the agricultural process of 'intelligent perception—intelligent diagnosis—intelligent decision-making.'",
+    "description2": "The research focuses on the mechanisms and methods of remote sensing monitoring of arable land, agricultural information collection and intelligent equipment for operations, sky-earth big data mining and analysis, agricultural product quality traceability, and spatial planning of smart agriculture parks. The goal is to break through the core theories, technologies, equipment, and system platforms of smart agriculture, promote the assembly, integration, and maturation of equipment, technologies, and systems, and establish standardized and replicable smart agriculture application models.",
+    "tabs": {
+      "title": "Sky-Earth Integrated Agricultural Smart Sensing",
+      "description": " "
+    },
+    "bookmarks": {
+      "title": "Temporal and Spatial Monitoring and Early Warning of Farmland System",
+      "description": " "
+    },
+    "share": {
+      "title": "Sky-Earth Data Capsule and Smart Engine Platform",
+      "description": " "
+    },
+    "security": {
+      "title": "Cloud-Edge-End Collaborative Agricultural Intelligent Equipment",
+      "description": " "
+    }
+  },
+"faq": {
+    "title": "Research Results",
+    "description": "Since the establishment of the team, we have published dozens of academic papers, applied for multiple patents, and obtained software copyrights.",
+    "button":"Learn More",
+    "tabs": {
+      "lw": "Academic Paper",
+      "rz": "Software Copyright",
+      "zl": "Patent"
+    },
+    "questions": {
+      "lws": [
+        {
+          "a": "An improved YOLOv5s model for assessing apple graspability in automated harvesting scene. ",
+          "b": "Huibin Li; Peng Yang; Huaiyang Liu; Xiang Liu; Jianping Qian; Qiangyi Yu; Changxing Geng; Yun Shi. "
+        },
+        {
+          "a": "Augmentation method for high intra-class variation data in apple detection.",
+          "b": "Huibin Li, Wei Guo *, Guowen Lu"
+        },
+        {
+          "a": "EasyIDP: A Python Package for Intermediate Data Processing in UAV-Based Plant Phenotyping.",
+          "b": "Haozhou Wang; Yulin Duan; Yun Shi; Yoichiro Kato; Seishi Ninomiya; Wei Guo."
+        },
+        {
+          "a": "Lightweight Fruit-Detection Algorithm for Edge Computing Applications.",
+          "b": "Wenli Zhang; Yuxin Liu; Kaizhen Chen; Huibin Li; Yulin Duan; Wenbin Wu; Yun Shi; Wei Guo. "
+        },
+        {
+          "a": "An Efficient Method for Estimating Wheat Heading Dates Using UAV Images.",
+          "b": "Licheng Zhao; Wei Guo; Jian Wang; Haozhou Wang; Yulin Duan; Cong Wang; Wenbin Wu; Yun Shi."
+        }
+
+      ],
+      "rzs": [
+        {
+          "a": "农业绿色发展数据展示与服务系统1.0",
+          "b": "登记号：2021SR0681654"
+        },
+        {
+          "a": "数字农业Windows平台1.0",
+          "b": "登记号：2021SR0681640"
+        },
+        {
+          "a": "农业绿色发展数据采集APP系统1.0",
+          "b": "登记号：2021SR0695561"
+        },
+        {
+          "a": "土壤普查属性专题制图及应用系统",
+          "b": "登记号：2023SR0256220"
+        },
+        {
+          "a": "土壤普查数据系统统计展示服务系统V1.0",
+          "b": "登记号：2023SR0256219"
+        },
+        {
+          "a": "土壤普查功能专题制图及应用系统V1.0",
+          "b": "登记号：2023SR0246920"
+        }
+
+      ],
+      "zls": [
+        {
+          "a": "一种用于高光谱图像的配准方法",
+          "b": "专利号：ZL201710362220.2"
+        },
+        {
+          "a": "一种遥感图像城区提取方法",
+          "b": "专利号：ZL201410662642.8"
+        },
+        {
+          "a": "一种基于激光点云的道路边界检测方法",
+          "b": "专利号：ZL201710376969.2"
+        },
+        {
+          "a": "一种能够远程唤醒的菌菇生长环境监测设备和系统",
+          "b": "专利号：ZL202010775439.7"
+        },
+        {
+          "a": "一种应用于菌菇培育的低功耗无线智能装备",
+          "b": "专利号：ZL202010775456.0"
+        }
+      ]
+    }
+  },
+  "blog": {
+    "backToList": "Back to Blog List",
+    "title": "Blog Posts",
+    "description": "Sharing Chrome extension development experiences and browsing tips",
+    "loadMore": "Load More",
+    "posts": [
+         {
+           "id": 1,
+           "title": "Chrome Extension Development Guide -- English",
+           "description": "Learn how to develop your first Chrome extension",
+           "date": "2024-03-15",
+           "readTime": "10 min read",
+           "slug": "chrome-extension-development-guide"
+         },
+         {
+          "id": 2,
+          "title": "Chrome Extension Development Guide -- English",
+          "description": "Learn how to develop your first Chrome extension",
+          "date": "2024-03-15",
+          "readTime": "10 min read",
+          "slug": "chrome-extension-development-guide"
+        },
+        {
+          "id": 3,
+          "title": "Chrome Extension Development Guide -- English",
+          "description": "Learn how to develop your first Chrome extension",
+          "date": "2024-03-15",
+          "readTime": "10 min read",
+          "slug": "chrome-extension-development-guide"
+        }
+       ]
+  },
+  "auth": {
+    "signin": {
+      "title": "Welcome back",
+      "description": "Enter your email and password to sign in",
+      "submitButton": "Sign in",
+      "noAccount": "Don't have an account?",
+      "signupLink": "Sign up",
+      "errors": {
+        "userNotFound": "User not found",
+        "wrongPassword": "Incorrect password"
+      },
+      "success": "Sign in successful!",
+      "error": "Sign in failed, please check your email and password!"
+    },
+    "signup": {
+      "title": "Create an account",
+      "description": "Enter your email and password to sign up",
+      "submitButton": "Sign up",
+      "hasAccount": "Already have an account?",
+      "signinLink": "Sign in",
+      "success": "Sign up successful!",
+      "error": "Sign up failed, please check your email and password!"
+    },
+    "form": {
+      "email": "Email",
+      "password": "Password",
+      "emailPlaceholder": "name@example.com",
+      "continueWith": "Or continue with",
+      "errors": {
+        "emailRequired": "Please enter your email",
+        "passwordRequired": "Please enter your password"
+      }
+    },
+    "signout": {
+      "success": "Sign out successful!"
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "tabs": {
+      "profile": "Profile",
+      "subscription": "Subscription",
+      "settings": "Settings"
+    },
+    "basicInfo": "Basic Information",
+    "email": "Email",
+    "joinDate": "Join Date",
+    "subscription": "Subscription",
+    "currentPlan": "Current Plan",
+    "freePlan": "Free Plan",
+    "proPlan": "Pro Plan",
+    "expireDate": "Expire Date",
+    "settings": "Settings",
+    "settingsComingSoon": "More settings coming soon..."
+  },
+  "result": {
+    "title": "Results",
+    "description": "",
+    "name":{
+      "lws":"Research Paper",
+      "rzs":"Software Copyright",
+      "zls":"Patent"
+    },
+    "types": {
+      "lws": 
+      [
+        {
+          "id": "1",
+          "a": "Huibin Li; Peng Yang; Huaiyang Liu; Xiang Liu; Jianping Qian; Qiangyi Yu; Changxing Geng; Yun Shi. An improved YOLOv5s model for assessing apple graspability in automated harvesting scene. "
+        },
+        {
+          "id": "2",
+          "a": "Huibin Li, Wei Guo *, Guowen Lu.Augmentation method for high intra-class variation data in apple detection."
+        },
+        {
+          "id": "3",
+          "a": "Haozhou Wang; Yulin Duan; Yun Shi; Yoichiro Kato; Seishi Ninomiya; Wei Guo.EasyIDP: A Python Package for Intermediate Data Processing in UAV-Based Plant Phenotyping."
+        },
+        {
+          "id": "4",
+          "a": "Wenli Zhang; Yuxin Liu; Kaizhen Chen; Huibin Li; Yulin Duan; Wenbin Wu; Yun Shi; Wei Guo. Lightweight Fruit-Detection Algorithm for Edge Computing Applications."
+        },
+        {
+          "id": "5",
+          "a": "Licheng Zhao; Wei Guo; Jian Wang; Haozhou Wang; Yulin Duan; Cong Wang; Wenbin Wu; Yun Shi.An Efficient Method for Estimating Wheat Heading Dates Using UAV Images."
+        }
+      ],
+           
+               
+      
+      "rzs": [
+        {
+          "a": "农业绿色发展数据展示与服务系统1.0",
+          "b": "登记号：2021SR0681654"
+        },
+        {
+          "a": "数字农业Windows平台1.0",
+          "b": "登记号：2021SR0681640"
+        },
+        {
+          "a": "农业绿色发展数据采集APP系统1.0",
+          "b": "登记号：2021SR0695561"
+        },
+        {
+          "a": "土壤普查属性专题制图及应用系统",
+          "b": "登记号：2023SR0256220"
+        },
+        {
+          "a": "土壤普查数据系统统计展示服务系统V1.0",
+          "b": "登记号：2023SR0256219"
+        },
+        {
+          "a": "土壤普查功能专题制图及应用系统V1.0",
+          "b": "登记号：2023SR0246920"
+        }
+
+      ],
+      "zls": [
+        {
+          "a": "一种用于高光谱图像的配准方法",
+          "b": "专利号：ZL201710362220.2"
+        },
+        {
+          "a": "一种遥感图像城区提取方法",
+          "b": "专利号：ZL201410662642.8"
+        },
+        {
+          "a": "一种基于激光点云的道路边界检测方法",
+          "b": "专利号：ZL201710376969.2"
+        },
+        {
+          "a": "一种能够远程唤醒的菌菇生长环境监测设备和系统",
+          "b": "专利号：ZL202010775439.7"
+        },
+        {
+          "a": "一种应用于菌菇培育的低功耗无线智能装备",
+          "b": "专利号：ZL202010775456.0"
+        }
+      ]
+    
+    }
+  }
+}

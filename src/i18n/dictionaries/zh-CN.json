@@ -1,0 +1,557 @@
+
+
+{
+  "navs": {
+    "name":"首页",
+    "logo":"/logo.svg",
+    "navbar0":{
+      "name":"首页"
+    },
+    "navbar1":{
+      "name":"研究方向"
+    },
+    "navbar2":{
+      "name":"研究成果"
+    },
+    "navbar3":{
+      "name":"团队成员"
+    },
+    "navbar4":{
+      "name":"新闻动态"
+    },
+    "navbar5":{
+      "name":"联系我们"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "数智农业课题组",
+      "description1": "中国农业科学院农业资源与农业区划研究所",
+      "description2": "致力于突破智慧农业的理论、技术和装备等关键科学问题，建立“创新链”与“产业链”相结合的智慧农业标准技术模式和生态系统，为政府智慧化决策、生产经营主体精准化管理提供强有力的科技支撑。",
+      "learnMore": "了解更多",
+      "watchDemo": "联系我们",
+      "image":"/images/643.jpg"
+    },
+    "cta": {
+      "title": "联系我们",
+      "description1": "课题组长期欢迎本科实习生、客座研究生、博士后等加入。",
+      "description2": "如有需要，请通过邮件联系我们，我们将尽快回复您。",
+      "button": "发送邮件"
+    },
+    "contact": {
+      "email": "邮箱",
+      "subject": "主题",
+      "message": "内容"
+    }
+  },
+  "news": {
+    "name":"新闻动态",
+    "description":"学术交流、科研进展、课外活动等",
+    "projects1" : 
+      {
+        "title":"有故事有颜值！这群新农人又出圈了！",
+        "description":"今年3月为了给小伙伴营造互相帮助、追求自我成长、实现自我价值的工作环境，办公室制定了一套价值观行为考核表，帮助小伙伴们记录在困难中成长、在成长中突破自我的高光时刻。",
+        "image": "/images/646.jpg",
+        "link":"blog"
+      },
+    "projects2" : 
+      {
+        "title":"探索藏在农田里的产业机遇——长三角智慧农业研究院助力智慧农业新发展",
+        "description":"1月20日，央视《朝闻天下》栏目“新机遇里看中国”专题报道《数智化赋能 农田里“孕育无限新机》，聚焦昆山陆家“智慧田园”，长三角智慧农业研究院院长史云接受采访。",
+        "image": "/images/645.jpg",
+        "link":"www.baidu.com"
+      },
+    "projects3" : 
+      {
+        "title":"农业农村部耕地质量监测保护中心处长李建兵一行调研长三角智慧农业研究院",
+        "description":"2023年11月23日农业农村部耕地质量监测保护中心处长李建兵，江苏省农业农村厅耕地质量与农业环境保护站副站长王绪奎，昆山市耕地质量与植物保护站站长陆宗明等一行到长三角智慧农业研究院",
+        "image": "/images/644.jpg",
+        "link":"www.sohu.com"
+      },
+      "projects4" : 
+      {
+        "title":"农业农村部耕地质量监测保护中心处长李建兵一行调研长三角智慧农业研究院",
+        "description":"2023年11月23日农业农村部耕地质量监测保护中心处长李建兵，江苏省农业农村厅耕地质量与农业环境保护站副站长王绪奎，昆山市耕地质量与植物保护站站长陆宗明等一行到长三角智慧农业研究院",
+        "image": "/images/644.jpg",
+        "link":"www.sohu.com"
+      },
+      "projects5" : 
+      {
+        "title":"农业农村部耕地质量监测保护中心处长李建兵一行调研长三角智慧农业研究院",
+        "description":"2023年11月23日农业农村部耕地质量监测保护中心处长李建兵，江苏省农业农村厅耕地质量与农业环境保护站副站长王绪奎，昆山市耕地质量与植物保护站站长陆宗明等一行到长三角智慧农业研究院",
+        "image": "/images/644.jpg",
+        "link":"www.sohu.com"
+      },
+      "projects6" : 
+      {
+        "title":"农业农村部耕地质量监测保护中心处长李建兵一行调研长三角智慧农业研究院",
+        "description":"2023年11月23日农业农村部耕地质量监测保护中心处长李建兵，江苏省农业农村厅耕地质量与农业环境保护站副站长王绪奎，昆山市耕地质量与植物保护站站长陆宗明等一行到长三角智慧农业研究院",
+        "image": "/images/644.jpg",
+        "link":"www.sohu.com"
+      },
+      "projects7" : 
+      {
+        "title":"农业农村部耕地质量监测保护中心处长李建兵一行调研长三角智慧农业研究院",
+        "description":"2023年11月23日农业农村部耕地质量监测保护中心处长李建兵，江苏省农业农村厅耕地质量与农业环境保护站副站长王绪奎，昆山市耕地质量与植物保护站站长陆宗明等一行到长三角智慧农业研究院",
+        "image": "/images/644.jpg",
+        "link":"www.sohu.com"
+      }
+  },
+  "team": {
+    "name":"研究团队",
+    "description":"团队由多名不同学科背景的硕、博士研究生组成，是一群充满激情的创新者。致力于通过技术服务农业，做对国家有贡献的”新农人”。",
+    "button":"了解更多",
+    "title":{
+      "professors":"导师",
+      "researchers":"研究人员",
+      "students":"在读学生"
+    },
+      "professors":{
+          "member1": 
+            {
+              "name":"史云 ",
+              "description":"1979年3月生，江苏溧阳人，博士，中国农业科学院农业资源与农业区划研究所研究员、博士生导师。长期从事多传感器数据融合的空间信息获取及分析等基础和应用研究，特别在多传感器的数据协同采集与传输、多平台多传感器数据融合、以及基于融合数据的三维空间信息获取及分析等方面取得该领域世界领先的研究成果；自主研发了基于多种传感器的三维信息获取及分析处理系统，被国内外多家企事业单位引进，取得巨大社会经济价值。先后主持项目5项、获得奖励1项、发表论文30余篇、获得专利/软件著作权15项。",
+              "image": "/images/team/sy.jpg"
+              
+            },
+          "member2" : 
+            {
+              "name":"余强毅 ",
+              "description":"农学博士，博士生导师 。中国农业科学院农业资源与农业区划研究所 研究员 ，智慧农业创新团队青年首席，入选 首批中国农业科学院青年创新专项资助。 担任国务院第三次全国土壤普查专家技术指导组专家、现代农业产业技术体系北京市数字农业创新团队岗位专家。主要从事土地系统、农业遥感、智慧耕地研究，在天空地一体化智能感知、耕地利用遥感监测、高标准农田监测监管、农业土地系统可持续评价等方面取得重要进展。主持国家级科研项目4项，包括国家自然科学基金2项、国家重点研发计划课题2项，第一/通讯作者在Nature Food等国际知名SCI期刊发表论文20余篇，获省部级奖励3项。",
+              "image": "/images/team/yqy.jpg"
+              
+            },
+          "member3" : 
+            {
+              "name":"张保辉 ",
+              "description":"",
+              "image": "/images/team/zbh.jpg"
+              
+            },
+            "member4" : 
+            {
+              "name":"段玉林 ",
+              "description":"",
+              "image": ""
+              
+            }
+      },
+      "researchers": {
+        "member1": 
+            {
+              "name":"李会宾 ",
+              "position":"助理研究员",
+              "area":"智慧农业",
+              "description":"介绍 -- ",
+              "image": "/images/avatar.jpg",
+              "email":"lihuibin@caas.cn"
+            },
+          "member2" :       
+          {
+            "name":" ",
+            "position":"职称 -- ",
+            "area":"",
+            "description":"介绍 -- ",
+            "image": "/images/avatar.jpg",
+            "email":""
+          }
+      },
+      "students": {
+        "member1": 
+            {
+              "name":"车紫进",
+              "grade":"2023级博士生",
+              "area":"深度学习 智慧农业",
+              "image": "/images/avatar.jpg",
+              "email":"chezijin@caas.cn"
+          },
+          "member2": 
+            {
+              "name":"姓名 -- ",
+              "grade":"2023级博士生",
+              "area":"领域 == ",
+              "image": "/images/avatar.jpg",
+              "email":"blog"
+          },
+          "member3": 
+            {
+              "name":"姓名 -- ",
+              "grade":"2023级博士生",
+              "area":"领域 == ",
+              "image": "/images/avatar.jpg",
+              "email":"blog"
+          }
+        }
+  },
+  "footer": {
+    "support": "支持单位",
+    "company": "合作公司",
+    "copyright": "版权所有© 中国农业科学院数智农业课题组.",
+    "links": {
+      "caas": "/images/szdx.png",
+      "nwafu": "西北农林科技大学",
+      "suda":"苏州大学",
+      "dufe": "河北地质大学",
+      "znsz": "苏州中农数智科技有限公司"
+    },
+    "info":{
+      "location": "地址：北京市海淀区中关村南大街12号",
+      "phone": "电话： ",
+      "email": "邮箱："
+    }
+  },
+  "links": {
+    "nwafu": "/images/hbgeo-logo.svg",
+    "suda": "/images/soochow-logo.svg",
+    "dufe": "/images/naf-logo.svg"
+  },
+  "metadata": {
+    "title": "数智农业课题组 - 中国农业科学院资划所"
+  },
+  "common": {
+    "brand": "数智农业课题组",
+    "loading": "加载中..."
+  },
+  "features": {
+    "title": "研究方向",
+    "description1": "将遥感 、大数据、人工智能等新一代信息技术与农业进行深度融合，以农业“智能感知—智能诊断—智能决策”为研究主线.",
+    "description2": "重点开展耕地遥感监测机理与方法、农业信息采集与作业智能装备、天空地大数据挖掘与分析、农产品质量溯源、智慧农业园区空间规划等方面的研究，突破智慧农业的核心理论、技术、装备和系统平台，推进装备、技术和系统的组装、集成与熟化，建立标准化、可复制的智慧农业应用技术模式。",
+    "tabs": {
+      "title": "天空地一体农业智能感知",
+      "description": "一种综合利用天空（如卫星、无人机等）、地面（如传感器、摄像头等）和地下（如土壤传感器等）的多种数据采集技术，通过智能化的数据处理和分析，实现对农业环境和作物生长状况的全面感知监测。"
+    },
+    "bookmarks": {
+      "title": "耕地系统时空变化监测与预警",
+      "description": "通过技术手段对耕地的面积、质量、利用情况等进行实时或定期的监测，以了解耕地在时间上的变化趋势和空间上的分布情况。"
+    },
+    "share": {
+      "title": "天空地数据方舱与智能引擎平台",
+      "description": "能够整合来自不同空间维度的数据，并通过智能算法进行分析和处理的平台。可用于环境监测、城市规划、灾害预警等多种领域。"
+    },
+    "security": {
+      "title": "云边端协同农业智能装备",
+      "description": "是一种集成了云计算、边缘计算和终端设备的高效农业智能系统，可实现精准农业管理，提高作物产量和质量。"
+    }
+  },
+  "faq": {
+    "title": "研究成果",
+    "description": "自团队组建以来，发表数十篇高水平学术论文，申请多项专利、软著",
+    "button":"查看更多",
+    "tabs": {
+      "lw": "学术论文",
+      "rz": "软著",
+      "zl": "专利"
+    },
+    "questions": {
+      "lws": [
+        {
+          "a": "An improved YOLOv5s model for assessing apple graspability in automated harvesting scene. ",
+          "b": "Huibin Li; Peng Yang; Huaiyang Liu; Xiang Liu; Jianping Qian; Qiangyi Yu; Changxing Geng; Yun Shi. "
+        },
+        {
+          "a": "Augmentation method for high intra-class variation data in apple detection.",
+          "b": "Huibin Li, Wei Guo *, Guowen Lu"
+        },
+        {
+          "a": "EasyIDP: A Python Package for Intermediate Data Processing in UAV-Based Plant Phenotyping.",
+          "b": "Haozhou Wang; Yulin Duan; Yun Shi; Yoichiro Kato; Seishi Ninomiya; Wei Guo."
+        },
+        {
+          "a": "Lightweight Fruit-Detection Algorithm for Edge Computing Applications.",
+          "b": "Wenli Zhang; Yuxin Liu; Kaizhen Chen; Huibin Li; Yulin Duan; Wenbin Wu; Yun Shi; Wei Guo. "
+        },
+        {
+          "a": "An Efficient Method for Estimating Wheat Heading Dates Using UAV Images.",
+          "b": "Licheng Zhao; Wei Guo; Jian Wang; Haozhou Wang; Yulin Duan; Cong Wang; Wenbin Wu; Yun Shi."
+        },
+        {
+          "a": "An Efficient Method for Estimating Wheat Heading Dates Using UAV Images.",
+          "b": "Zhao,L., Guo,W., Wang,J., Wang,HJ., Duan,YL., Wang,C., Wu,WB."
+        },
+        {
+          "a": "Finer Classification of Crops by Fusing UAV Images and Sentinel-2A Data.",
+          "b": "Licheng Zhao; Yun Shi; Bin Liu; Ciara Hovis; Yulin Duan; Zhongchao Shi."
+        },
+        {
+          "a": "A survey on visualization of tensor field.",
+          "b": "Chongke Bi; Lu Yang; Yulin Duan; Yun Shi."
+        },
+        {
+          "a": "Finer Classification of Crops by Fusing UAV Images and Sentinel-2A Data. ",
+          "b": "L Zhao, Y Shi, B Liu, C Hovis, Y Duan, Z Shi."
+        },
+        {
+          "a": "3D Convolutional Neural Networks for Crop Classification with Multi-Temporal Remote Sensing Images. ",
+          "b": "Shunping Ji; Chi Zhang; Anjian Xu; Yun Shi; Yulin Duan."
+        },
+        {
+          "a": "Dynamic Mode Decomposition Based Video Shot Detection. ",
+          "b": "Bi, C., Yuan, Y., Zhang, J., Shi, Y., Xiang, Y., Wang, Y., Zhang."
+        }
+
+      ],
+      "rzs": [
+        {
+          "a": "农业绿色发展数据展示与服务系统1.0",
+          "b": "登记号：2021SR0681654"
+        },
+        {
+          "a": "数字农业Windows平台1.0",
+          "b": "登记号：2021SR0681640"
+        },
+        {
+          "a": "农业绿色发展数据采集APP系统1.0",
+          "b": "登记号：2021SR0695561"
+        },
+        {
+          "a": "土壤普查属性专题制图及应用系统",
+          "b": "登记号：2023SR0256220"
+        },
+        {
+          "a": "土壤普查数据系统统计展示服务系统V1.0",
+          "b": "登记号：2023SR0256219"
+        },
+        {
+          "a": "土壤普查功能专题制图及应用系统V1.0",
+          "b": "登记号：2023SR0246920"
+        }
+
+      ],
+      "zls": [
+        {
+          "a": "一种用于高光谱图像的配准方法",
+          "b": "专利号：ZL201710362220.2"
+        },
+        {
+          "a": "一种遥感图像城区提取方法",
+          "b": "专利号：ZL201410662642.8"
+        },
+        {
+          "a": "一种基于激光点云的道路边界检测方法",
+          "b": "专利号：ZL201710376969.2"
+        },
+        {
+          "a": "一种能够远程唤醒的菌菇生长环境监测设备和系统",
+          "b": "专利号：ZL202010775439.7"
+        },
+        {
+          "a": "一种应用于菌菇培育的低功耗无线智能装备",
+          "b": "专利号：ZL202010775456.0"
+        }
+      ]
+    }
+  },
+  "blog": {
+    "backToList": "返回博客列表",
+    "title": "新闻动态",
+    "description": "学术交流、科研进展、课外活动等",
+    "loadMore": "加载更多",
+    "posts": [
+         {
+           "id": 1,
+           "title": "一种能够远程唤醒的菌菇生长环境监测设备和系统--中文",
+           "description": "学习如何开发你的第一个Chrome插件",
+           "date": "2024-03-15",
+           "readTime": "10分钟阅读",
+           "slug": "chrome-extension-development-guide"
+         },
+         {
+          "id": 2,
+          "title": "一种应用于菌菇培育的低功耗无线智能装备--中文",
+          "description": "学习如何开发你的第一个Chrome插件",
+          "date": "2024-03-15",
+          "readTime": "10分钟阅读",
+          "slug": "chrome-extension-development-guide"
+        },
+        {
+          "id": 3,
+          "title": "Chrome插件开发入门指南--中文",
+          "description": "学习如何开发你的第一个Chrome插件",
+          "date": "2024-03-15",
+          "readTime": "10分钟阅读",
+          "slug": "chrome-extension-development-guide"
+        },
+        {
+          "id": 4,
+          "title": "Chrome插件开发入门指南--中文",
+          "description": "学习如何开发你的第一个Chrome插件",
+          "date": "2024-03-15",
+          "readTime": "10分钟阅读",
+          "slug": "chrome-extension-development-guide"
+        },
+        {
+          "id": 5,
+          "title": "Chrome插件开发入门指南--中文",
+          "description": "学习如何开发你的第一个Chrome插件",
+          "date": "2024-03-15",
+          "readTime": "10分钟阅读",
+          "slug": "chrome-extension-development-guide"
+        },
+        {
+          "id": 6,
+          "title": "Chrome插件开发入门指南--中文",
+          "description": "学习如何开发你的第一个Chrome插件",
+          "date": "2024-03-15",
+          "readTime": "10分钟阅读",
+          "slug": "chrome-extension-development-guide"
+        },
+        {
+          "id": 7,
+          "title": "Chrome插件开发入门指南--中文",
+          "description": "学习如何开发你的第一个Chrome插件",
+          "date": "2024-03-15",
+          "readTime": "10分钟阅读",
+          "slug": "chrome-extension-development-guide"
+        },
+        {
+          "id": 8,
+          "title": "Chrome插件开发入门指南--中文",
+          "description": "学习如何开发你的第一个Chrome插件",
+          "date": "2024-03-15",
+          "readTime": "10分钟阅读",
+          "slug": "chrome-extension-development-guide"
+        }
+       ]
+  },
+  "auth": {
+    "signin": {
+      "title": "欢迎回来",
+      "description": "请输入您的邮箱和密码登录",
+      "submitButton": "登录",
+      "noAccount": "没有账号?",
+      "signupLink": "注册",
+      "success": "登录成功!",
+      "error": "登录失败,请检查邮箱和密码!",
+      "errors": {
+        "userNotFound": "用户不存在",
+        "wrongPassword": "密码错误"
+      }
+    },
+    "signup": {
+      "title": "创建账号", 
+      "description": "请输入您的邮箱和密码注册",
+      "submitButton": "注册",
+      "hasAccount": "已有账号?",
+      "signinLink": "登录",
+      "success": "注册成功!",
+      "error": "注册失败,请检查邮箱和密码!"
+    },
+    "form": {
+      "email": "邮箱",
+      "password": "密码",
+      "emailPlaceholder": "name@example.com",
+      "continueWith": "或继续使用",
+      "errors": {
+        "emailRequired": "请输入邮箱",
+        "passwordRequired": "请输入密码"
+      }
+    },
+    "signout": {
+      "success": "退出成功!"
+    }
+  },
+  "profile": {
+    "title": "个人中心",
+    "tabs": {
+      "profile": "基本信息",
+      "subscription": "订阅信息", 
+      "settings": "账号设置"
+    },
+    "basicInfo": "基本信息",
+    "email": "邮箱",
+    "joinDate": "注册时间",
+    "subscription": "订阅信息",
+    "currentPlan": "当前方案",
+    "freePlan": "免费版",
+    "proPlan": "专业版",
+    "expireDate": "到期时间",
+    "settings": "账号设置",
+    "settingsComingSoon": "更多设置选项开发中..."
+  },
+ "result": {
+    "title": "研究成果",
+    "description": "选择最适合您的方案，随时可以升级或降级",
+    "name":{
+      "lws":"论文",
+      "rzs":"软著",
+      "zls":"专利"
+    },
+    "types": {
+      "lws": 
+        [
+          {
+            "id": "1",
+            "a": "Huibin Li; Peng Yang; Huaiyang Liu; Xiang Liu; Jianping Qian; Qiangyi Yu; Changxing Geng; Yun Shi. An improved YOLOv5s model for assessing apple graspability in automated harvesting scene. "
+          },
+          {
+            "id": "2",
+            "a": "Huibin Li, Wei Guo *, Guowen Lu.Augmentation method for high intra-class variation data in apple detection."
+          },
+          {
+            "id": "3",
+            "a": "Haozhou Wang; Yulin Duan; Yun Shi; Yoichiro Kato; Seishi Ninomiya; Wei Guo.EasyIDP: A Python Package for Intermediate Data Processing in UAV-Based Plant Phenotyping."
+          },
+          {
+            "id": "4",
+            "a": "Wenli Zhang; Yuxin Liu; Kaizhen Chen; Huibin Li; Yulin Duan; Wenbin Wu; Yun Shi; Wei Guo. Lightweight Fruit-Detection Algorithm for Edge Computing Applications."
+          },
+          {
+            "id": "5",
+            "a": "Licheng Zhao; Wei Guo; Jian Wang; Haozhou Wang; Yulin Duan; Cong Wang; Wenbin Wu; Yun Shi.An Efficient Method for Estimating Wheat Heading Dates Using UAV Images."
+          }
+        ],
+               
+      
+      "rzs": [
+        {
+          "a": "农业绿色发展数据展示与服务系统1.0",
+          "b": "登记号：2021SR0681654"
+        },
+        {
+          "a": "数字农业Windows平台1.0",
+          "b": "登记号：2021SR0681640"
+        },
+        {
+          "a": "农业绿色发展数据采集APP系统1.0",
+          "b": "登记号：2021SR0695561"
+        },
+        {
+          "a": "土壤普查属性专题制图及应用系统",
+          "b": "登记号：2023SR0256220"
+        },
+        {
+          "a": "土壤普查数据系统统计展示服务系统V1.0",
+          "b": "登记号：2023SR0256219"
+        },
+        {
+          "a": "土壤普查功能专题制图及应用系统V1.0",
+          "b": "登记号：2023SR0246920"
+        }
+
+      ],
+      "zls": [
+        {
+          "a": "一种用于高光谱图像的配准方法",
+          "b": "专利号：ZL201710362220.2"
+        },
+        {
+          "a": "一种遥感图像城区提取方法",
+          "b": "专利号：ZL201410662642.8"
+        },
+        {
+          "a": "一种基于激光点云的道路边界检测方法",
+          "b": "专利号：ZL201710376969.2"
+        },
+        {
+          "a": "一种能够远程唤醒的菌菇生长环境监测设备和系统",
+          "b": "专利号：ZL202010775439.7"
+        },
+        {
+          "a": "一种应用于菌菇培育的低功耗无线智能装备",
+          "b": "专利号：ZL202010775456.0"
+        }
+      ]
+    
+    }
+  }
+}
