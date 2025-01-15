@@ -3,17 +3,12 @@
  * @Date: 2024-12-10 10:39:46
  */
 import React from 'react'
-import { Button } from "@/components/ui/button"
-import Image from "next/image"
-import Features from "@/components/features"
 import Result from "@/components/result"
 import Team from "@/components/team"
 import News from "@/components/news"
 import Map from "@/components/map"
 import About from "@/components/about"
 import Hero from "@/components/hero"
-import { Footerr } from '@/components/footer1'
-import {Link} from "@/components/link"
 //import Team1 from "@/components/team1"
 import { ScrollToTop } from "@/components/scroll-to-top"
 import { getDictionary } from '@/i18n/get-dictionary'
