@@ -110,7 +110,6 @@ export default function News({ lang }: { lang: Locale }) {
             title={newsItem.name}
             description={newsItem.description}
             image={newsItem.image}
-            link={newsItem.link}
           />
         ))}
       </div>

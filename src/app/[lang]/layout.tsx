@@ -1,3 +1,7 @@
+/*
+ * @Author: Tsai27
+ * @Date: 2024-12-10 10:39:46
+ */
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "../globals.css";
@@ -25,9 +29,6 @@ export async function generateMetadata({
       default: dict.metadata.title,
       template: `%s | ${dict.metadata.title}`,
     },
-    description: dict.metadata.description,
-    keywords: dict.metadata.keywords,
-    authors: [{ name: "yeheboo" }],
     metadataBase: new URL(url),
     alternates: {
       canonical: `${url}/${params.lang}`,
@@ -41,13 +42,11 @@ export async function generateMetadata({
       locale: params.lang,
       url: `${url}/${params.lang}`,
       title: dict.metadata.title,
-      description: dict.metadata.description,
       siteName: dict.common.brand,
     },
     twitter: {
       card: "summary_large_image",
       title: dict.metadata.title,
-      description: dict.metadata.description,
     },
     robots: {
       index: true,
