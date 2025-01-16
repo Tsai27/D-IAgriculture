@@ -8,9 +8,9 @@
 
 import { ThemeToggle } from "./theme-toggle"
 import { LanguageSwitcher } from "./language-switcher"
-import type { Locale } from "@/i18n/config"
 
-export function NavbarActions({ lang, dict }: { lang: Locale; dict: any }) {
+
+export function NavbarActions() {
 
   return (
     <div className="flex items-center space-x-2">

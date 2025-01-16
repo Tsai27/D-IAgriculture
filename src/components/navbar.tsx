@@ -115,7 +115,7 @@ export default function Navbar({
               })}
             </div>
           </div>
-          <NavbarActions lang={lang} dict={dict} />
+          <NavbarActions   />
           <MobileNav lang={lang} dict={dict} />
         </nav>
       </div>
